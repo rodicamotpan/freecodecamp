@@ -7,3 +7,4 @@
 * survey-form (Survey form cerfication test)
 ------------------------------------------------------
 * rothko-painting (Learn the CSS Box Model)
+* cat-photos-gallery (Learn CSS Flexbox)
