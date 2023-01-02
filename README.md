@@ -10,3 +10,6 @@
 * cat-photos-gallery (Learn CSS Flexbox)
 * nutrition-label(Learn Typography by Building a Nutrition Label)
 * Quiz exemple(Learn Accessibility by Building a Quiz)
+* CSS Pseudo Selectors (Learn CSS Pseudo Selectors By Building A Balance Sheet)
+
+
