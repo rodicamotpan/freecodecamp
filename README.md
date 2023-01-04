@@ -11,5 +11,5 @@
 * nutrition-label(Learn Typography by Building a Nutrition Label)
 * Quiz exemple(Learn Accessibility by Building a Quiz)
 * CSS Pseudo Selectors (Learn CSS Pseudo Selectors By Building A Balance Sheet)
-
+* Intermediate CSS (Learn Intermediate CSS by Building a Picasso Painting)
 
