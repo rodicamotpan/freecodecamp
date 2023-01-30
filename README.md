@@ -15,4 +15,6 @@
 * Intermediate CSS (Learn Intermediate CSS by Building a Picasso Painting)
 * Building a Piano(Learn Responsive Web Design by Building a Piano)
 * Technical Documentation Page(Build a Technical Documentation Page cerfication test)
+-------------------------------------------------------
 * City Skyline (Learn CSS Variables by Building a City Skyline)
+* Css Grid (Learn CSS Grid by Building a Magazine)
