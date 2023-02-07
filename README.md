@@ -18,3 +18,5 @@
 -------------------------------------------------------
 * City Skyline (Learn CSS Variables by Building a City Skyline)
 * Css Grid (Learn CSS Grid by Building a Magazine)
+-------------------------------------------------------
+* Css Animation(Learn CSS Animation by Building a Ferris Wheel)
